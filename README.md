@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/qlaxd"><img title="qlaxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlaxd&layout=compact"></a>
+<a href="https://github.com/qlaxd"><img title="qlaxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlaxd&layout=compact&theme=dark"></a>
 </p>
   
 ![Visitor Count](https://profile-counter.glitch.me/qlaxd/count.svg)
