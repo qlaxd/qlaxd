@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://github.com/qlaxd/Shoply"><img title="Shoply" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Shoply&theme=radical"></a>
 <a href="https://github.com/qlaxd/fala"><img title="FalaFarm-auctions" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=fala&theme=highcontrast"></a>
-<a href="https://github.com/qlaxd/speech2clipboard/tree/development"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard/tree/development&theme=vision-friendly-dark"></a>
+<a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=vision-friendly-dark"></a>
 <a href="https://github.com/qla0000/computergroup"><img title="Computergroup-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=qla0000&repo=computergroup&theme=highcontrast"></a>
 </p>
 
