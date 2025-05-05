@@ -26,7 +26,17 @@
 <a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=radical"></a>
 <a href="https://github.com/qla0000/computergroup"><img title="Computergroup-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=qla0000&repo=computergroup&theme=highcontrast"></a>
 </p>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <p align="center">
 <a href="https://github.com/qlaxd"><img title="qlaxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlaxd&layout=compact"></a>
 </p>
