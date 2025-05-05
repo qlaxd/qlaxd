@@ -9,7 +9,7 @@
 ![trophy](https://skillicons.dev/icons?i=dotnet,raspberrypi,linux,arch,debian,java,idea,vue,arduino,mysql,rust,vscode,py,stackoverflow,git,javascript,pytorch,tensorflow,github,postman,postgresql,mongodb,bash,react,nextjs,nodejs,docker,kubernetes,expressjs,php&perline=18)
 <hr>  
 
-### KNOW MORE ABOUT ME →
+### KNOW MORE ABOUT ME ⇢
 <p align="center"><a href="https://github.com/qlaxd><img title="Hey this is my stats" src="https://github-readme-stats.vercel.app/api?username=qlaxd&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
