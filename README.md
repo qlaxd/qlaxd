@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/qlaxd"><img title="Github" src="https://img.shields.io/badge/My github profile-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/qlaxd"><img title="Github" src="https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://signal.me/#eu/8bsIkzw-9LvyiNEp_E8ZzBmflRhggoZlEc806nbFwrPoLRQFbqBFepEdVQKXPTIA"><img title="Signal" src="https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=Signal"></a>
 </p>
 
