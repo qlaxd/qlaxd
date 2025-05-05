@@ -15,28 +15,30 @@
 
 <p align="center">
 <a href="https://github.com/qlaxd"><img title="Github" src="https://img.shields.io/badge/My github profile-brightgreen?style=for-the-badge&logo=github"></a>
-
-
-
-<p align="center">
 <a href="https://signal.me/#eu/8bsIkzw-9LvyiNEp_E8ZzBmflRhggoZlEc806nbFwrPoLRQFbqBFepEdVQKXPTIA"><img title="Signal" src="https://img.shields.io/badge/Signal-blue?style=for-the-badge&logo=Signal"></a>
+</p>
+
 <p align="center">
 <a href="https://github.com/qlaxd/Shoply"><img title="Shoply" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Shoply&theme=radical"></a>
 <a href="https://github.com/qlaxd/fala"><img title="FalaFarm-auctions" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=fala&theme=highcontrast"></a>
 <a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=radical"></a>
 <a href="https://github.com/qla0000/computergroup"><img title="Computergroup-nextjs" src="https://github-readme-stats.vercel.app/api/pin/?username=qla0000&repo=computergroup&theme=highcontrast"></a>
 </p>
+
+<p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=qlaxd&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=levdev0&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qla0000&show_icons=true" />
 </picture>
+</p>
+
 <p align="center">
 <a href="https://github.com/qlaxd"><img title="qlaxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlaxd&layout=compact"></a>
 </p>
