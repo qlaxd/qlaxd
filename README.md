@@ -6,7 +6,7 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=dotnet,raspberrypi,linux,arch,debian,java,idea,vue,arduino,mysql,rust,vscode,py,stackoverflow,git,javascript,pytorch,tensorflow,github,postman,postgresql,mongodb,bash,react,nextjs,nodejs,docker,kubernetes,expressjs,php&perline=18)
+![trophy](https://skillicons.dev/icons?i=dotnet,raspberrypi,linux,arch,debian,kali,redhat,neovim,java,idea,vue,arduino,mysql,rust,pycharm,vscode,py,html,stackoverflow,git,javascript,ts,vite,vitestk,webpack,electron,express,selenium,django,pytorch,tensorflow,opencv,ai,terraform,fastapi,flask,elasticsearch,matlab,githubactions,github,gitlab,postman,graphql,sqlite,postgresql,prisma,mongodb,js,pinia,bash,regex,powershell,jest,jqueryreact,bootstrap,tailwind,materialui,css,cypress,firebase,nextjs,nodejs,npm,anaconda,angular,aws,azure,docker,kubernetes,nginx,heroku,gcp,prometheus,expressjs,wordpress,windows,php&perline=18)
 <hr>  
 
 ### KNOW MORE ABOUT ME ⇢
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/qlaxd/Shoply"><img title="Shoply" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Shoply&theme=radical"></a>
-<a href="https://github.com/qlaxd/fala"><img title="FalaFarm-auctions" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=fala&theme=highcontrast"></a>
-<a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=radical"></a>
-<a href="https://github.com/qlaxd/AutoCursor"><img title="AutoCursor" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=AutoCursor&theme=highcontrast"></a>
+  <a href="https://github.com/qlaxd/AutoCursor"><img title="AutoCursor" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=AutoCursor&theme=highcontrast"></a>
+  <a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=radical"></a>
+  <a href="https://github.com/qlaxd/fala"><img title="FalaFarm-auctions" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=fala&theme=highcontrast"></a>
+  <a href="https://github.com/qlaxd/Shoply"><img title="Shoply" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Shoply&theme=radical"></a>
 </p>
 
 <p align="center">
@@ -42,5 +42,3 @@
 <p align="center">
 <a href="https://github.com/qlaxd"><img title="qlaxd" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlaxd&layout=compact&theme=dark"></a>
 </p>
-  
-![Visitor Count](https://profile-counter.glitch.me/qlaxd/count.svg)
