@@ -6,7 +6,7 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=dotnet,raspberrypi,linux,arch,debian,kali,redhat,neovim,java,idea,vue,arduino,mysql,rust,pycharm,vscode,py,html,stackoverflow,git,javascript,ts,vite,vitestk,webpack,electron,express,selenium,django,pytorch,tensorflow,opencv,ai,terraform,fastapi,flask,elasticsearch,matlab,githubactions,github,gitlab,postman,graphql,sqlite,postgresql,prisma,mongodb,js,pinia,bash,regex,powershell,jest,jqueryreact,bootstrap,tailwind,materialui,css,cypress,firebase,nextjs,nodejs,npm,anaconda,angular,aws,azure,docker,kubernetes,nginx,heroku,gcp,prometheus,expressjs,wordpress,windows,php&perline=18)
+![trophy](https://skillicons.dev/icons?i=dotnet,raspberrypi,linux,arch,debian,kali,redhat,neovim,java,idea,vue,arduino,mysql,rust,pycharm,vscode,py,html,stackoverflow,git,javascript,ts,vite,vitest,webpack,electron,express,selenium,django,pytorch,tensorflow,opencv,ai,terraform,fastapi,flask,elasticsearch,matlab,githubactions,github,gitlab,postman,graphql,sqlite,postgresql,prisma,mongodb,js,pinia,bash,regex,powershell,jest,jquery,react,bootstrap,tailwind,materialui,css,cypress,firebase,nextjs,nodejs,npm,anaconda,angular,aws,azure,docker,kubernetes,nginx,heroku,gcp,prometheus,expressjs,wordpress,windows,php&perline=18)
 <hr>  
 
 ### KNOW MORE ABOUT ME ⇢
