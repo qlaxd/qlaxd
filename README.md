@@ -22,7 +22,7 @@
   <a href="https://github.com/qlaxd/AutoCursor"><img title="AutoCursor" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=AutoCursor&theme=highcontrast"></a>
   <a href="https://github.com/qlaxd/speech2clipboard"><img title="Speech2Clipboard" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=speech2clipboard&theme=highcontrast"></a>
   <a href="https://github.com/qlaxd/fala"><img title="FalaFarm-auctions" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=fala&theme=highcontrast"></a>
-  <a href="https://github.com/qlaxd/device-identity-spoofer"><img title="Device Identity Spoofer" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Device Identity Spoofer&theme=highcontrast"></a>
+  <a href="https://github.com/qlaxd/device-identity-spoofer"><img title="device-identity-spoofer" src="https://github-readme-stats.vercel.app/api/pin/?username=qlaxd&repo=Device Identity Spoofer&theme=highcontrast"></a>
 </p>
 
 <p align="center">
